@@ -1,7 +1,3 @@
-### README for MacMahon 24 Triangle Puzzle
-
----
-
 ## Introduction
 
 This project involves solving a MacMahon 24 triangle puzzle using linear programming (LP). The puzzle consists of arranging 24 triangles in a 4-row structure to form a larger hexagonal shape. The arrangement must ensure that the shared edges of adjacent triangles have the same color. The triangles are represented by their edges with specific colors.
